@@ -12,8 +12,4 @@
 
 ## [To see the project](#)  <!-- Replace # with your project URL -->
 
-## Preview
 
-![A wonderful gift](https://via.placeholder.com/800x400)  <!-- Replace with your image URL -->
-![Explore the world](https://via.placeholder.com/800x400)  <!-- Replace with your image URL -->
-![Upcoming tours & destination](https://via.placeholder.com/800x400)  <!-- Replace with your image URL -->
