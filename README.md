@@ -24,12 +24,5 @@ Adventure is your passport to explore the world's most exciting destinations and
 - About: Learn more about the Adventure project, its mission, and the team behind it.
 
  
-## 👨‍💻 Contributing
-We welcome contributions from the open-source community.
-Contributions make the open source community such an amazing place to learn, inspire, and create.
-Any contributions you make are truly appreciated.
-Check out our [contribution guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for more information.
-
-
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
